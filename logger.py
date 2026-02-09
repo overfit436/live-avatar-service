@@ -8,6 +8,7 @@ fhandler = logging.FileHandler('livetalking.log')  # 可以改为StreamHandler�
 fhandler.setFormatter(formatter)
 fhandler.setLevel(logging.INFO)
 logger.addHandler(fhandler)
+#change 2026-02-10
 
 # handler = logging.StreamHandler()
 # handler.setLevel(logging.DEBUG)
