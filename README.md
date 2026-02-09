@@ -181,4 +181,4 @@ If this project helps you, consider giving it a star. Contributions are welcome.
 
 - Knowledge Planet: https://t.zsxq.com/7NMyO — FAQ, best practices, Q&A
 - WeChat: Digital Human Technology (scan QR for official account)  
-<img src="./assets/qrcode-wechat.jpg" align="middle" width="120" />
+
